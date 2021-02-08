@@ -1,0 +1,20 @@
+/* ESTILO GLOBAL DE LA APLICACION */
+
+html, body{
+    background-color: moccasin;
+}
+
+
+.container-imagenes{
+    height: 150px;
+    border: solid lightseagreen 1px;    
+    /* margin-left: auto; */
+    text-align: left;    
+}
+
+.img-size{
+    position: relative;
+    width: 250px;
+    left: 200px;
+    /* margin-left: -75px;  */
+}
